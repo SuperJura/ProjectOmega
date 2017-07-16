@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: LockMinion
+  m_EditorClassIdentifier: 
+  enemyId: 1
+  speed: 2
+  scale: 1
+  idleAggroRange: 1
+  AttackRange: 0.5
+  enemyName: Linion
+  expDrop: 6
+  sprites: {fileID: 11400000, guid: c59331b9d098b4940b23d2c1b6e3e87b, type: 2}
+  types: 0000000000000000
+  explicitDrop:
+    type: 0
+    amount: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: LightningDog
+  m_EditorClassIdentifier: 
+  enemyId: 6
+  speed: 6
+  scale: 1
+  idleAggroRange: 2
+  AttackRange: 0.5
+  enemyName: Hound
+  expDrop: 1
+  sprites: {fileID: 11400000, guid: f43ca4f9d029d26479650d0304ef0a73, type: 2}
+  types: 01000000
+  explicitDrop:
+    type: 0
+    amount: 0

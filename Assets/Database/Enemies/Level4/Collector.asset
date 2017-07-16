@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: Collector
+  m_EditorClassIdentifier: 
+  enemyId: 9
+  speed: 4
+  scale: 2
+  idleAggroRange: 2
+  AttackRange: 1.5
+  enemyName: Collector
+  expDrop: 50
+  sprites: {fileID: 11400000, guid: 341cde933461ad346a5c666f1c38347e, type: 2}
+  types: 00000000010000000200000003000000000000000000000001000000010000000200000002000000030000000300000001000000000000000200000003000000030000000200000002000000030000000300000001000000010000000000000000000000010000000200000002000000030000000300000000000000000000000100000002000000000000000100000003000000020000000000000001000000
+  uiYOffset: 0.2
+  enemyType: 1
+  explicitDrop:
+    type: 0
+    amount: 1

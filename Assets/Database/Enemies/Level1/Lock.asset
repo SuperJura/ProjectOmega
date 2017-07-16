@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: Lock
+  m_EditorClassIdentifier: 
+  enemyId: 0
+  speed: 3
+  scale: 1
+  idleAggroRange: 1
+  AttackRange: 1.5
+  enemyName: Lock
+  expDrop: 8
+  sprites: {fileID: 11400000, guid: b03d22db92e0acc498097f4b103f0bbc, type: 2}
+  types: 000000000000000000000000
+  explicitDrop:
+    type: 0
+    amount: 0

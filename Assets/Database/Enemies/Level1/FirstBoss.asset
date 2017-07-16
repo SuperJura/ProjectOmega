@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: FirstBoss
+  m_EditorClassIdentifier: 
+  enemyId: 3
+  speed: 3
+  scale: 2
+  idleAggroRange: 10
+  AttackRange: 2
+  enemyName: Faryx
+  expDrop: 36
+  sprites: {fileID: 11400000, guid: 76f2023930d11fd4d9eaa384c52f793e, type: 2}
+  types: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  uiYOffset: 0.45
+  enemyType: 1
+  explicitDrop:
+    type: 1
+    amount: 5

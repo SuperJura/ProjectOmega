@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: SecondBoss
+  m_EditorClassIdentifier: 
+  enemyId: 8
+  speed: 3
+  scale: 2
+  idleAggroRange: 10
+  AttackRange: 2
+  enemyName: Wox
+  expDrop: 29
+  sprites: {fileID: 11400000, guid: b6125a64e02033643a7e523827018926, type: 2}
+  types: 000000000000000001000000010000000100000001000000010000000000000000000000010000000000000001000000000000000000000001000000
+  uiYOffset: 0.25
+  enemyType: 1
+  explicitDrop:
+    type: 2
+    amount: 10

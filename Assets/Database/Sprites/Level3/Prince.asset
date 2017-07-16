@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a29fca064b6fd65449af466195ad9f27, type: 3}
+  m_Name: Prince
+  m_EditorClassIdentifier: 
+  idleSprite: {fileID: 21300004, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  movingLeftSprites:
+  - {fileID: 21300008, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  - {fileID: 21300010, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  movingRightSprites:
+  - {fileID: 21300012, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  - {fileID: 21300014, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  movingUpSprites:
+  - {fileID: 21300000, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  - {fileID: 21300002, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  movingDownSprites:
+  - {fileID: 21300004, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}
+  - {fileID: 21300006, guid: 964994ff909ec994b8afd87c2d6ac03b, type: 3}

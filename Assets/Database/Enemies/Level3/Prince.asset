@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b18032936e720f740af7f40512ab58b9, type: 3}
+  m_Name: Prince
+  m_EditorClassIdentifier: 
+  enemyId: 4
+  speed: 2
+  scale: 0.5
+  idleAggroRange: 2
+  AttackRange: 1.5
+  enemyName: Prince
+  expDrop: 6
+  sprites: {fileID: 11400000, guid: 19aadc5ed02a7fe4dbc14d45a5fc83bc, type: 2}
+  types: 0100000002000000010000000100000002000000
+  explicitDrop:
+    type: 0
+    amount: 0
